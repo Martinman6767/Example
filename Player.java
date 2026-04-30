@@ -7,4 +7,7 @@
  */
 public class Player
 {
+    //decalre an instance variable to store
+    //user name
+    String strUser; 
 }
